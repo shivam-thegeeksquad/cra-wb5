@@ -3,8 +3,6 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-// You can write your own logic here to determine the actual url
-window.app2Url = 'http://localhost:8002';
 
 ReactDOM.render(
 	<React.StrictMode>
